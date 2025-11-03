@@ -45,3 +45,10 @@ Determine the average electric range of the electric vehicles in the dataset to 
 
 1. MS OFFICE/ EXCEL: VERSION 2021
 2. Tableau
+
+### Dataset
+The dataset is compressed to reduce size.
+
+Download and unzip it before use:
+```bash
+unzip dataset.zip
