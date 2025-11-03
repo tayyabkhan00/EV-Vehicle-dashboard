@@ -2,11 +2,11 @@
 analysis and visualization using Tableau
 
 # PROBLEM STATEMENT
-<br>
-KPI's requirement
-<br>
+
+KPI's requirement:
+
 Total Vehicles:
-<br>
+
 1.Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 
 2. Average Electric Range:
@@ -20,7 +20,7 @@ Calculate the percentage of BEVs relative to the total number of electric vehicl
 Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
-#Charts Requirement:
+# Charts Requirement:
 
 1.Total Vehicles by Model Year (From 2010 Onwards):
 -Visualization: Line/ Area Chart
@@ -43,7 +43,6 @@ Calculate the percentage of PHEVs relative to the total number of electric vehic
 -Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
 # SOFTWARE USED:
-<br>
-1. MS OFFICE/ EXCEL: VERSION 2021
 
+1. MS OFFICE/ EXCEL: VERSION 2021
 2. Tableau
