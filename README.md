@@ -51,10 +51,8 @@ Determine the average electric range of the electric vehicles in the dataset to 
 
 -Description: Illustrate the proportion of electric vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, aiding in understanding the impact of incentives on vehicle adoption.
 
-6. Top 10 Total Vehicles by Model:
-
--Visualization: Tree map
-
+6. Top 10 Total Vehicles by Model:  
+-Visualization: Tree map    
 -Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
 # SOFTWARE USED:
